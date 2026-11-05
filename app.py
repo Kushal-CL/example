@@ -1,1 +1,1 @@
-return (5+2)
+print("kushal")
